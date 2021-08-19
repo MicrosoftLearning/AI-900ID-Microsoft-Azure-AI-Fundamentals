@@ -1,6 +1,6 @@
 ---
 lab:
-    judul: “Pemahaman Bahasa'
+    title: 'Pemahaman Bahasa'
 ---
 
 ## Mendapatkan file terbaru 
