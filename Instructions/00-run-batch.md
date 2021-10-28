@@ -6,4 +6,4 @@
 
 ![Ikon Visual Studio Code](./images/vscode.jpg)
 
-3. Jika sudah terbuka, Anda akan melihat proyek MSLEARN-AI900 di panel sebelah kiri. File ini berisi lab untuk kursus. 
+3. Jika sudah terbuka, Anda akan melihat proyek MSLEARN-AI900 di panel sebelah kiri. Folder ini berisi lab untuk kursus. 
