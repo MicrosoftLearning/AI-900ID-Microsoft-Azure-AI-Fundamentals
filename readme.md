@@ -1,3 +1,11 @@
+**Important Notice!**
+
+This repo was replaced by a [new repo](https://github.com/MicrosoftLearning/AI-900-AIFundamentals.id-ID) on 4 February 2022 . We're making this change to improve the localized version of this content and reduce the delta between English and localized content updates. 
+After a short interval, this repo will be archived.
+
+**Contributions**
+
+At this time, we are not accepting external contributions to this repo. If you have suggestions or spot any errors, please create a pull request or report an issue on the [new repo](https://github.com/MicrosoftLearning/AI-900-AIFundamentals.id-ID).
 # Latihan Dasar-Dasar AI Microsoft Azure
 
 Repositori ini berisi latihan lab langsung untuk kursus Microsoft [*Dasar-Dasar AI Microsoft Azure* AI-900](https://docs.microsoft.com/id-id/learn/certifications/courses/ai-900t00) dan [modul mandiri di Microsoft Learn](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals). Lab ini dirancang untuk melengkapi materi pembelajaran dan memungkinkan Anda mempraktikkan teknologi yang dijelaskan. 
